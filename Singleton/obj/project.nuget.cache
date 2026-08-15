@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5Emjo8T53zPCcgk79uZHzseS+ER1orpDjs9muY/seuJjP6QNGTbJGfU01aZjcKP34SKIqOJH9X3MFN8fsENScQ==",
+  "dgSpecHash": "SXWMw3jCcWg=",
   "success": true,
   "projectFilePath": "/Users/khinhtetmoe/Projects/csharp-design-patterns/Singleton/Singleton.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/khinhtetmoe/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/khinhtetmoe/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/khinhtetmoe/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

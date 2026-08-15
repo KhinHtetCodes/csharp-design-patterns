@@ -1,0 +1,15 @@
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/bin/Debug/net10.0/WithoutFactory
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/bin/Debug/net10.0/WithoutFactory.deps.json
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/bin/Debug/net10.0/WithoutFactory.runtimeconfig.json
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/bin/Debug/net10.0/WithoutFactory.dll
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/bin/Debug/net10.0/WithoutFactory.pdb
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/WithoutFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/WithoutFactory.AssemblyInfoInputs.cache
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/WithoutFactory.AssemblyInfo.cs
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/WithoutFactory.csproj.CoreCompileInputs.cache
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/WithoutFactory.sourcelink.json
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/WithoutFactory.dll
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/refint/WithoutFactory.dll
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/WithoutFactory.pdb
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/WithoutFactory.genruntimeconfig.cache
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/WithoutFactory/obj/Debug/net10.0/ref/WithoutFactory.dll

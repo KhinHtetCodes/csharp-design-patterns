@@ -1,0 +1,15 @@
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/bin/Debug/net10.0/FactoryMethodTest
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/bin/Debug/net10.0/FactoryMethodTest.deps.json
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/bin/Debug/net10.0/FactoryMethodTest.runtimeconfig.json
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/bin/Debug/net10.0/FactoryMethodTest.dll
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/bin/Debug/net10.0/FactoryMethodTest.pdb
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/FactoryMethodTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/FactoryMethodTest.AssemblyInfoInputs.cache
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/FactoryMethodTest.AssemblyInfo.cs
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/FactoryMethodTest.csproj.CoreCompileInputs.cache
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/FactoryMethodTest.sourcelink.json
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/FactoryMethodTest.dll
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/refint/FactoryMethodTest.dll
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/FactoryMethodTest.pdb
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/FactoryMethodTest.genruntimeconfig.cache
+/Users/khinhtetmoe/Projects/csharp-design-patterns/Factory/FactoryMethodTest/obj/Debug/net10.0/ref/FactoryMethodTest.dll
